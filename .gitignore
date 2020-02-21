@@ -1,0 +1,8 @@
+/node_modules
+/lib/data/*.proto
+npm-debug.log
+.envrc
+data
+.idea
+*.apk
+package-lock.json
